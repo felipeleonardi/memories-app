@@ -4,7 +4,7 @@
   "description": "A complete platform to manage your memories.",
   "author": "Felipe Damaro",
   "license": "MIT",
-  "homepage": "https://github.com/felipeleonardi/memories-app#readme",
+  "homepage": ".",
   "proxy": "http://localhost:5000",
   "repository": {
     "type": "git",
